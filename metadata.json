@@ -1,0 +1,6 @@
+{
+  "name": "ApexPC Builder - AI Powered PC Configurator",
+  "description": "Build custom gaming, streaming, and workstation PCs with intelligent real-time hardware compatibility checking and AI budget optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
